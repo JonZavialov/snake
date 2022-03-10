@@ -25,4 +25,4 @@ Host the root folder with whatever server you want. For development, I use the [
 
 ## 👨‍💻 Developlment
 
-This project is a currently in progress by Jonathan.
+This project has been finished and can by used at [my portfolio website](https://jonzav.me/?booted=true&app=snake).
