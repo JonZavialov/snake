@@ -8,6 +8,21 @@
 
 <p align="center">A classic rendition of the Snake game</p>
 
+## 🧪 Try It
+
+#### Clone repo
+
+- [Git](https://git-scm.com/downloads)
+
+```
+git clone https://github.com/JonZavialov/snake.git
+cd snake
+```
+
+#### Host server
+
+Host the root folder with whatever server you want. For development, I use the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) VSCode extension. I use [nginx](https://www.nginx.org/) for production. For other solutions, use [XAAMP](https://www.apachefriends.org/download.html).
+
 ## 👨‍💻 Developlment
 
 This project is a currently in progress by Jonathan.
