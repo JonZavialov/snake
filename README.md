@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/commit-activity/m/JonZavialov/snake?color=brightgreen&logo=GitHub" alt="Commit Activity" />
 </p>
 
-<p align="center">A classic rendition of the Snake game</p>
+<p align="center">A classic rendition of the Snake game.</p>
 
 ## 🧪 Try It
 
